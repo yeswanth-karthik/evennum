@@ -1,4 +1,6 @@
 n=int(input("enter n:"))
 if(n%2==0):
    print(n)
+else:
+   print("not an even")
   
